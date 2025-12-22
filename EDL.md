@@ -48,8 +48,8 @@ These steps depend on what you use, so I'll keep it brief. For a Windows machine
 You can reboot your device with `edl.exe /z` (or by holding the power button)
 
 ## Troubleshooting
-Your device might seem to not respond to anything (including the power button) and sometimes the USB connection stops working (so unplugging / replugging the USB won't work)
+Your device might seem to be completely unresponsive, with the power button doing nothing. If you unplug the device, it might also stop responding to USB after replugging (this is just an EDL bug it seems)
 
-If this is happening, hold **all three top buttons**: Volume Up, Volume Down and Power for a minute or so
+If this is happening, hold **all three top buttons**: Volume Up, Volume Down and Power. Do this for a minute (or until the device vibrates)
 
 If this doesn't work, give the device a few minutes and try again. This usually works for me - if nothing works you could try unplugging the battery (luckily the Odin 3 is pretty easy to open)
