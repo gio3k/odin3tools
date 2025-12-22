@@ -46,3 +46,10 @@ These steps depend on what you use, so I'll keep it brief. For a Windows machine
     - My device has boot_a on LUN 4, so: `edl.exe /u4 /w /pboot_a boot.img`
 
 You can reboot your device with `edl.exe /z` (or by holding the power button)
+
+## Troubleshooting
+Your device might seem to not respond to anything (including the power button) and sometimes the USB connection stops working (so unplugging / replugging the USB won't work)
+
+If this is happening, hold **all three top buttons**: Volume Up, Volume Down and Power for a minute or so
+
+If this doesn't work, give the device a few minutes and try again. This usually works for me - if nothing works you could try unplugging the battery (luckily the Odin 3 is pretty easy to open)
