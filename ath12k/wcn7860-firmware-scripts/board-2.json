@@ -1,0 +1,32 @@
+[
+    {
+        "board": [
+            {
+                "names": [
+                    "bus=pci,qmi-chip-id=2,qmi-board-id=31"
+                ],
+                "data": "bus=pci,qmi-chip-id=2,qmi-board-id=31.bin"
+            },
+            {
+                "names": [
+                    "bus=pci,vendor=17cb,device=110e,subsystem-vendor=17cb,subsystem-device=110e,qmi-chip-id=2,qmi-board-id=255"
+                ],
+                "data": "bus=pci,vendor=17cb,device=110e,subsystem-vendor=17cb,subsystem-device=110e,qmi-chip-id=2,qmi-board-id=255.bin"
+            }
+        ],
+        "regdb": [
+            {
+                "names": [
+                    "bus=pci,qmi-chip-id=2,qmi-board-id=31"
+                ],
+                "data": "bus=pci,qmi-chip-id=2,qmi-board-id=31.regdb"
+            },
+            {
+                "names": [
+                    "bus=pci,vendor=17cb,device=110e,subsystem-vendor=17cb,subsystem-device=110e,qmi-chip-id=2,qmi-board-id=255"
+                ],
+                "data": "bus=pci,vendor=17cb,device=110e,subsystem-vendor=17cb,subsystem-device=110e,qmi-chip-id=2,qmi-board-id=255.regdb"
+            }
+        ]
+    }
+]
