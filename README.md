@@ -24,4 +24,4 @@ Linux sources are now available: [@AYNTechnologies/linux (github)](https://githu
 
 Firehose Loader (iQOO 13): [iqoo_13.melf](https://archive.diablosat.cc/firmwares/amt-dumps/FirehoseLoaders/iqoo_13.melf)
 
-Stock Device Tree (dtb + dts from decompile): [resources/stock-device-tree/](./stock-device-tree)
+Stock Device Tree (dtb + dts from decompile): [resources/stock-device-tree/](./resources/stock-device-tree)
